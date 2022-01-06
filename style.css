@@ -1,15 +1,12 @@
-
 #small{
     font-size: small;
 }
-
 .half-width{
     width:50%;
     padding-left: 10%;
     padding-top: 20px;
     font-family: 'Poppins', sans-serif;
-   
-}
+    }
 .line{
    border-left:3px solid;
    border-image:linear-gradient(red,tomato ) ; 
@@ -26,7 +23,6 @@
 }
 .orange-color{
     color:orange;
-
 }
 .heading{
     text-align: center;
@@ -34,25 +30,24 @@
     font-size: 35px;
 }
 .second-section{
-    
     padding-right: 40px;
     padding-left: 40px;
 }
 .top-div{
     background-color: paleturquoise;
     border-radius: 10px;
-    padding: 20px 20px;
-    
+    padding: 20px 0px;   
 }
 .middle-div{
     background-color: darkslateblue;
     border-radius: 10px;
-    padding: 20px 20px ;   
+    padding: 20px 20px ; 
 }
 .last-div{
     background-color: darkolivegreen;
     border-radius: 10px;
     padding: 20px 10px;
+    
 }
 .flex-container{
     display: flex;
@@ -75,16 +70,17 @@
     background-position:top;
     background-size: 120px;
 }
-.third-section{
-    padding-left: 5%;
-}
-.figure-width{
+figure-width{
     padding-left: 15%;
-    background-image: url(images/shapes/copy-3.png);
+    background-image: url(images/shapes/shape-3.png);
     background-repeat:no-repeat ;
     background-position:bottom;
     background-size: 70px;
 }
+.third-section{
+    padding-left: 5%;
+}
+
 #white-color{
 color: white;
 }
@@ -101,3 +97,36 @@ color: white;
     background-color:rgb(11, 10, 22);
     padding:20px 20px;
 }
+#full-stack-dav{
+    border-left: 5px solid;
+    border-image: linear-gradient(darkolivegreen,darkslateblue);
+    border-image-slice:1 ;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.baby-web-dav{
+    border-left: 5px solid;
+    border-image: linear-gradient(darkslateblue,orange);
+    border-image-slice:1 ;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.fourth-section{
+    background-image: url(images/shapes/shape-4.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size:90px ;
+}
+.community-width{
+
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    
+    background-size: 20px;
+}
+#
