@@ -85,3 +85,19 @@
     background-position:bottom;
     background-size: 70px;
 }
+#white-color{
+color: white;
+}
+#red-color{
+    color: red;
+}
+.end{
+    text-align: center;
+    font-size: small;
+    color:white;
+    background-size: 30%;
+}
+.final{
+    background-color:rgb(11, 10, 22);
+    padding:20px 20px;
+}
