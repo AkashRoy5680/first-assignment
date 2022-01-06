@@ -132,9 +132,11 @@ color: white;
 
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-position: bottom;
-    background-size: 50px;
+    background-position: bottom  right 70px;
+    background-size: 150px;
 }
 .community-width img{
-    width:70%;
+    width:67%;
+    margin-bottom: 7%;
+    
 }
